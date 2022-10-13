@@ -2,7 +2,7 @@ import styled from "styled-components";
 import logo from "../assets/Vector.png";
 
 export const DashboardWrapper = styled.div`
-  min-height: 100vh;
+  height: 100vh;
   color: #d9d9d9;
 
   .sidebar {
