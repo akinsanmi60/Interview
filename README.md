@@ -1,3 +1,11 @@
+# Interview Assessment Design
+
+# A music dashboard
+
+# Library used react router 6, react spinner, prettier, eslint,styled component and antd.
+
+# Every page is lasz load for app optimization
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
