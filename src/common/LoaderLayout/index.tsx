@@ -9,7 +9,7 @@ function LoaderLayout() {
         <div className="loader">
           <DotLoader color="#d9d9d9" size={70} speedMultiplier={2} />
         </div>
-        <h1>ULX</h1>
+        <h1>uduX</h1>
       </div>
     </LoaderWrapper>
   );

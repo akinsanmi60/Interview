@@ -1,6 +1,7 @@
 import styled from "styled-components";
 
 export const ViewWrapper = styled.div`
+  height: 100%;
   color: #d9d9d9;
   .imgbox {
     padding: 20px;
@@ -20,6 +21,12 @@ export const ViewWrapper = styled.div`
     margin-top: 165px;
   }
 
+  @media screen and (max-width: 1280px) {
+    .text {
+      font-size: 10px;
+      margin-top: 173px;
+    }
+  }
   @media screen and (max-width: 1024px) {
     .text {
       font-size: 7px;
@@ -40,7 +47,7 @@ export const ViewWrapper = styled.div`
   @media screen and (max-width: 425px) {
     .text {
       font-size: 8px;
-      margin-top: 158px;
+      margin-top: 150px;
     }
   }
   @media screen and (max-width: 375px) {

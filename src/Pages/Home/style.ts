@@ -1,6 +1,7 @@
 import styled from "styled-components";
 
 export const HomeWrapper = styled.div`
+  height: 100%;
   color: #d9d9d9;
   .logoimg {
     width: 100%;
